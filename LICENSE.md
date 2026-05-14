@@ -1,4 +1,4 @@
-
+AppCleaner for macOS ultimate Addon - hotkey-customization and file-archiving offers the most advanced AppCleaner for macOS addon, with hotkey-customization and file-archiving.
 
 
 
